@@ -22,10 +22,7 @@ public class CalcTest {
 	public void tearDown() throws Exception {
 	}
 
-	@Test
-	public void testAdd() {
-		assertTrue(c1.add(10, 20)==30);
-	}
+	
 
 	@Test
 	public void testDivide() {
