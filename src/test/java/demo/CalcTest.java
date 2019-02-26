@@ -24,7 +24,7 @@ public class CalcTest {
 
 	@Test
 	public void testAdd() {
-		assertTrue(c1.add(10, 20)==30);
+		assertTrue(c1.add(10, 20)==10);
 	}
 
 	@Test
