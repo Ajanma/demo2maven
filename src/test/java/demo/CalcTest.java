@@ -26,7 +26,7 @@ public class CalcTest {
 
 	@Test
 	public void testDivide() {
-		assertTrue(c1.divide("20", "10")==21);
+		assertTrue(c1.divide("20", "10")==2);
 	}
 	@Test
 	public void testDivide1() {
